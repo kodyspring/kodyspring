@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kody Spring</h1>
 <h3 align="center">weeeee!!!</h3>
 
-<br>
+<p align="center">I’m currently working on building end-to-end systems and optimizing a hardware/software stack for real world applications.</p>
+
 <br>
 
 <h3 align="center">Languages-Frameworks-Tools:</h3>
