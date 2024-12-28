@@ -5,18 +5,6 @@
 
 <br>
 
-<h3 align="center">Languages-Frameworks-Tools:</h3>
-<br>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,pytorch,anaconda,django,aws,azure,gcp,docker,kubernetes"><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,python,cpp,postgres,html,css"><br>
-    <img src="https://skillicons.dev/icons?i=figma,obsidian,notion,postman,ableton">
-  </a>
-</div>
-
-<br>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/kodyspring" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kodyspring" height="30" width="40" /></a>
